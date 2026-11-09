@@ -12,7 +12,7 @@
 # email. The first part is a country code or another top-level domain, as in
 # us.example or edu.example. Once approved, you can add codes for teams or
 # projects (edu.example.dept) under Manage, with no further approval.
-agency: org.example
+agency: us.jhucities
 
 # Fields every question must have, besides name, text and intent. Choose from
 # title, concept, universe, instruction, source and note. A question missing one
