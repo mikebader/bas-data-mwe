@@ -1,0 +1,8 @@
+name: dem_own
+title: Housing tenure
+text: Do you rent your home, own it, or do you have some other arrangement?
+intent: Measure homeownership/renter status
+concept: demographic_information
+universe: all_respondents
+responses: dem_own_3
+instructions: select_one

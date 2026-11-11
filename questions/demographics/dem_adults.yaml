@@ -1,0 +1,8 @@
+name: dem_adults
+title: Number of adults in household
+text: In the past 30 days, how many adults lived in your household at least half of the time, including yourself?
+intent: Construct household composition
+concept: demographic_information
+number:
+  min: 1
+  max: 99

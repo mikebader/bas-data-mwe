@@ -1,0 +1,8 @@
+name: nhd_blks
+title: Blocks in neighborhood
+text: How many blocks are in the area that you think of as your neighborhood?
+intent: Measure perceived size of R's neighborhood
+concept: neighborhoods
+universe: all_respondents
+responses: nhd_blks_6
+instructions: select_one
