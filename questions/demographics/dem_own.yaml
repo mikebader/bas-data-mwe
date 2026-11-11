@@ -5,4 +5,4 @@ intent: Measure homeownership/renter status
 concept: demographic_information
 universe: all_respondents
 responses: dem_own_3
-instructions: select_one
+instruction: select_one
