@@ -3,7 +3,6 @@ title: Years in neighborhood
 text: How many years have you lived in your current neighborhood? Enter 0 if less than 1 year
 intent: Measure duration in neighborhood
 concept: neighborhoods
-universe: all_respondents
 number: 
   min: 0
   max: 110
