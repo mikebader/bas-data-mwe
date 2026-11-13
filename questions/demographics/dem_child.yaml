@@ -1,0 +1,8 @@
+name: dem_child
+title: Children in household
+text: In the past 30 days, have you had any children under the age of 18 living in your home for at least some of the time?
+intent: Construct household composition
+concept: demographic_information
+universe: all_respondents
+responses: yes
+note: If a respondent left his question blank or answered ‘no’, the survey skipped the following questions about childrens’ age, going straight to the question asking about the respondent’s birthyear.
