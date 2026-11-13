@@ -7,4 +7,7 @@ universe: all_respondents
 number:
   min: 1
   max: 99
-note: Respondents were restricted to entering a number between 1 and 99; respondents who tried to submit a number outside of this range were prompted with the message 'Please enter a number between 1 and 99.' Note several extreme values in this response. These extreme values were kept in the dataset but analysts should be aware of them and may wish to set them equal to missing before analyzing data.
+note: |
+  Respondents were restricted to entering a number between 1 and 99; respondents who tried to submit a number outside of this range were prompted with the message 'Please enter a number between 1 and 99.' 
+  
+  Note several extreme values in this response. These extreme values were kept in the dataset but analysts should be aware of them and may wish to set them equal to missing before analyzing data.
