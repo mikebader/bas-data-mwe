@@ -1,0 +1,6 @@
+name: bas2023
+title: Baltimore Area Survey 2023
+uses:
+  bank: ../
+flow:
+  - ask: bank.nhd_nyrs
