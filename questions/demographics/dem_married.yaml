@@ -1,0 +1,7 @@
+name: dem_married
+title: Marital Status
+text: Are you now married, widowed, divorced, separated, or have you never been married?
+intent: Measure marital status
+concept: demographic_information
+universe: all_respondents
+responses: maritalstat
