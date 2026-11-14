@@ -1,0 +1,7 @@
+name: nhd_safechg
+title: Change in feeling of safety in neighborhood
+text: During the past five years, has your feeling of personal safety in your neighborhood gotten better, stayed about the same, or gotten worse?
+intent: Measure respondents' perception of changes in neighborhood safety
+concept: neighborhoods
+universe: all_respondents
+responses: better5

@@ -1,0 +1,7 @@
+name: nhd_fut
+title: Future of neighborhood
+text: Looking forward to the next five years, do you think that your neighborhood will generally become a better place to live, stay about the same, or become a worse place to live?
+intent: Measure respondents' future outlook on neighborhood
+concept: neighborhoods
+universe: all_respondents
+responses: nhdchange5
