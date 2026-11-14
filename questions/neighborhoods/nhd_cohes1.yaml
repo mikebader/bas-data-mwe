@@ -4,4 +4,4 @@ text: People in your neighborhood are willing to help their neighbors.
 intent: Measure neighborhood connections/ cohesion
 concept: neighborhoods
 universe: all_respondents
-responses: 
+responses: agree4
