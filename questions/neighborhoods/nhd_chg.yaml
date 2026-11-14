@@ -2,3 +2,6 @@ name: nhd_chg
 title: Change in neighborhood
 text: Looking back over the past five years or so, would you say that your neighborhood generally has become a better place to live, has stayed the same, or has become a worse place to live?
 intent: Measure perception of neighborhood changes
+concept: neighborhoods
+universe: all_respondents
+responses: 
