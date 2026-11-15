@@ -1,0 +1,7 @@
+name: nhd_cohes4
+title: Neighbors do not get along
+text: People in this neighborhood generally don't get along with each other.
+intent: Measure neighborhood connections/ cohesion
+concept: neighborhoods
+universe: all_respondents
+responses: agree4

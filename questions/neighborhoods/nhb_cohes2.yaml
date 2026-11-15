@@ -1,0 +1,7 @@
+name: nhd_cohes2
+title: Close-knit neighborhood
+text: This is a close-knit neighborhood.
+intent: Measure neighborhood connections/ cohesion
+concept: neighborhoods
+universe: all_respondents
+responses: agree4
