@@ -1,0 +1,7 @@
+name: dem_attrel
+title: Religious attendance
+text: How often do you attend religious services?
+intent: Measure frequency of respondent's religious attendance
+concept: demographic_information
+universe: all_respondents
+responses: reli_attend
