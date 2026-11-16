@@ -1,0 +1,7 @@
+name: dem_ideo
+title: Political ideology
+text: In general, would you describe your political views as...
+intent: Measure respondent's political ideology
+concept: demographic_information
+universe: all_respondents
+responses: ideology

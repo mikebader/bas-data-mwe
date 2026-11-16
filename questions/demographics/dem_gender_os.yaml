@@ -1,0 +1,11 @@
+name: dem_gender_os
+title: Other Gender - Specify
+text: |
+  What is your current gender?
+
+  I use a different term: (specify)
+intent: Measure respondent's gender (other)
+concept: demographic_information
+universe: all_respondents
+open: { max_length: 100 }
+note: Values stored as character string containing respondent's exact typed answer.

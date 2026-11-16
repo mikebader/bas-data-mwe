@@ -1,0 +1,7 @@
+name: dem_sexlty
+title: Sexuality
+text: Do you personally think of yourself as...
+intent: Measure respondent's sexuality
+concept: demographic_information
+universe: all_respondents
+responses: sexuality

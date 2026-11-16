@@ -1,0 +1,11 @@
+name: dem_income_70k
+title: High/low income
+text: |
+  During 2022, in which of these groups did your total family income, from all sources, fall before taxes?
+
+  For your total income, please include interest or dividends, rent, Social Security, other pensions, alimony or child support, unemployment compensation, public aid (welfare), armed forces or veteran's allotment.
+intent: Measure respondent's income
+concept: demographic_information
+universe: all_respondents
+responses: income_70k
+note: If the responent answered 'Under $70,000,' they were shown the 'dem_income_lo' question; if the respondent answered '$70,000 or more,' they were shown the 'dem_income_hi' question. If a respondent left this blank, the survey skipped to 'dem_houslate'.

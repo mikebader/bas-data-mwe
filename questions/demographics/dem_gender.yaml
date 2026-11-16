@@ -1,0 +1,7 @@
+name: dem_gender
+title: Gender
+text: What is your current gender?
+intent: Measure respondent's gender
+concept: demographic_information
+universe: all_respondents
+responses: gender
