@@ -1,0 +1,8 @@
+name: dem_houslate
+title: Housing payments
+text: In the past 12 months, how often has your household been late on monthly housing payments (mortgage or rent) or has only made a partial housing payment?
+intent: Measure respondent's housing security
+concept: demographic_information
+universe: all_respondents
+responses: housingpay
+source: Adapted from DMACS freq_late_housing_d15
