@@ -1,7 +1,7 @@
 name: dem_yearborn
 title: Respondent's birth year
 text: In what year were you born?
-intent: Construct household composition (children)
+intent: Measure respondent's age
 concept: demographic_information
 universe: all_respondents
 number:
