@@ -3,7 +3,7 @@ title: Low income level
 text: During 2022, in which of these groups did your total family income, from all sources, fall before taxes?
 variant_of: 
   dem_income_hi: split ballot, lower range
-intent: Measure respondent's income
+intent: Measure respondent's income (low)
 concept: demographic_information
 universe: all_respondents
 responses: income_lo
