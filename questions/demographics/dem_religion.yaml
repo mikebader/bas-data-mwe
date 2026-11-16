@@ -1,0 +1,7 @@
+name: dem_religion
+title: Religion
+text: What is your religious preference?
+intent: Measure respondent's religion
+concept: demographic_information
+universe: all_respondents
+responses: reli_desc
