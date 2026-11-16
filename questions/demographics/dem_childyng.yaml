@@ -1,0 +1,10 @@
+name: dem_childyng
+title: Number of children in household, under age 5
+text: In the past 30 days, how many children ages 0-4 lived in your household at least some of the time?
+intent: Construct household composition (children)
+concept: demographic_information
+universe: all_respondents
+number:
+  min: 0
+  max: 99
+note: Respondents were restricted to entering a number between 0 and 99; respondents who tried to submit a number outside of this range were prompted with the message 'Please enter a number between 0 and 99.'
