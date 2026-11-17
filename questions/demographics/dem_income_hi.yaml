@@ -1,0 +1,9 @@
+name: dem_income_hi
+title: High income level
+text: During 2022, in which of these groups did your total family income, from all sources, fall before taxes?
+variant_of: 
+  dem_income_lo: split ballot, higher range
+intent: Measure respondent's income (high)
+concept: demographic_information
+universe: all_respondents
+responses: income_hi

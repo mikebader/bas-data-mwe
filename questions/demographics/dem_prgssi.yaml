@@ -1,0 +1,10 @@
+name: dem_prgssi
+title: Received SSI benefits
+text: |
+  The next question is about public benefits you or your family may have received in the past 12 months. Did you or anyone in your family receive the following benefits at any time since {{NAME OF CURRENT MONTH}} 2022? Please include benefits received by you, your spouse or partner and any of your children or stepchildren under 19 who usually live with you.
+  
+  Supplemental Security Income (SSI), which provides cash assistance to low-income aged, blind, and disabled persons
+intent: Measure respondent's receipt of public benefits (SSI)
+concept: demographic_information
+universe: all_respondents
+responses: yes

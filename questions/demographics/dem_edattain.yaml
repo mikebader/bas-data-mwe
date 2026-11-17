@@ -1,0 +1,7 @@
+name: dem_edattain
+title: Educational Attainment
+text: What is the highest degree or level of school you have completed?
+intent: Measure respondent's educational attainment
+concept: demographic_information
+universe: all_respondents
+responses: degree

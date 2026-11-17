@@ -1,0 +1,7 @@
+name: dem_pparty
+title: Political party
+text: In politics today, do you consider yourself a...
+intent: Measure respondent's political party
+concept: demographic_information
+universe: all_respondents
+responses: pparty

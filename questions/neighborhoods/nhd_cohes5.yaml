@@ -1,0 +1,7 @@
+name: nhd_cohes5
+title: Neighbors do not share same values
+text: People in this neighborhood do not share the same values.
+intent: Measure neighborhood connections/ cohesion
+concept: neighborhoods
+universe: all_respondents
+responses: agree4
